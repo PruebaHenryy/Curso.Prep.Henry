@@ -1,0 +1,11 @@
+Objectos : un objecto es un conjuntos de propiedades 
+
+Propiedades : una propiedad son cadenas y sirven para definir una clave y un valor
+
+Metodos : se le llama metodo cuando se invoca  a una funcion de un objecto
+
+Bucle : significa codigo repetitivo que nunca va aparar si no se agrega el incremento ++
+
+Notacion de punto : sirve para llamar a una propiedad de un objeto
+
+Notacion de corchete : sirve para llamar una propiedad de un objeto y tambien para llamar por indice a un arreglo

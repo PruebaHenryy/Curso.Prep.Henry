@@ -1,0 +1,8 @@
+for : es un grupo de codigo que define una variable una exprecion y un incremento que es repetitivo y que lo guarda para luego ser ejecutado
+
+&& : el operador logico (&&) sirve para comparar expreciones si las dos se cumplen true
+en caso contrario seria false
+
+|| : el operador logico (||) sirve para comparar expreciones si las dos se cumplen o si una de las dos tambien se cumplen es true en caso contrario si las dos expreciones no se cumplen seria false
+
+! : el operador logico (!) sirve para hacer lo contrario de lo que la exprecion pide para analizar si una exprecion se cumple y da true es false 

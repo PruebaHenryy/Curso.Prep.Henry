@@ -1,0 +1,9 @@
+variables : una variable es como una cajita para guardar tipos de datos (cadenas, numeros, booleanos, undefined , null) y para volver a reutilizar esa variable con ese tipo de datos hacer operaciones con los numeros y con las string concatenar cadenas
+
+string : es una cadena de palabras que van entre comillas simple y dobles y que sirve para concatenar con otras cadenas..
+
+funciones : una funcion es un grupo de codigo que sirve para guardar un conjunto de codigo y las funciones llevan argumentos para luego ser invocado y tambien return sirve para frenar el codigo que deje de ejecutarse un fin
+
+if : sirve para preguntarse if(si) se cumple la exprecion o condicion de un tipo de datos con operadores matematicos en caso contrario si no se cumple la condicion pasa a otra condicion else if (sino si) y si no se cumple la condicion pasaria a else (sino) ahy terminaria el codigo de ejecutarse
+
+booleanos : son tipos de datos true que significa verdadero y false que significa si es falso si un tipo de datos de operaciones matematica se cumple es true en caso contrario es false.

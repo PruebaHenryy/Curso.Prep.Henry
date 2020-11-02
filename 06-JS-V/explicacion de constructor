@@ -1,0 +1,3 @@
+Constructor : es un constructor una instancia de codigo cuando se crea un objecto
+
+prototype : es un objecto de propiedades si no encuentra una propiedad en un objeto pasa a buscarlo en el objeto prototype la propiedad 
